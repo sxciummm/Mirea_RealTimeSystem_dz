@@ -1,3 +1,5 @@
+package lab1;
+
 public class lab_1_5 {
     public static long factorial(int a) {
 
@@ -13,6 +15,6 @@ public class lab_1_5 {
     }
 
     public static void main(String[] args) {
-        System.out.printf("Факториал: " + factorial(10));
+        System.out.printf("Факториал: " + factorial(4));
     }
 }

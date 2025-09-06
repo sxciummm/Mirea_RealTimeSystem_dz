@@ -1,3 +1,5 @@
+package lab1;
+
 public class lab_1_4 {
     public static void main(String[] args) {
         System.out.println("Первые 10 чисел гармонического ряда:");

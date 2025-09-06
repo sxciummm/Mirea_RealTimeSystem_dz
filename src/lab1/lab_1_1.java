@@ -1,3 +1,5 @@
+package lab1;
+
 public class lab_1_1 {
     public static void main(String[] args) {
         int[] nubmers = {1,2,3,4,5,6,7,8,9};
