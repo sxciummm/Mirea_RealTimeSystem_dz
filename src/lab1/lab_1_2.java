@@ -21,7 +21,7 @@ public class lab_1_2 {
                 System.out.println("Ошибка! Введите целое число!");
                 scanner.next();
             }
-        } while (size<=0);
+        } while (size<=1);
 
         int[] numbers = new int[size];
 
