@@ -1,4 +1,4 @@
-package lab_10_to_19.lab10.lab10_1;
+package lab_10_to_19.lab10;
 
 public class Student {
     private String Name;
